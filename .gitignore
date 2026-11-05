@@ -59,4 +59,4 @@ cvelistV5/
 *shared/
 *simulation_environments/
 *volumes/
-*jobs/
+*jobs/*
